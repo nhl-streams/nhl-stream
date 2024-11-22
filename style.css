@@ -650,7 +650,7 @@ video {
 
 .bg-gray-950 {
   --tw-bg-opacity: 1;
-    background-image: url(/nhl-streams.jpg);
+    background-image: url(https://cdn.live-nhl.com/media-resources/other/bodybg_live-nhl.v1.jpg);
     background-repeat: repeat; 
     background-attachment: fixed; 
     background-size: auto; 
@@ -706,7 +706,7 @@ h1 {
   line-height: 2.25rem;
   font-weight: 700;
   --tw-text-opacity: 1;
-  color: rgb(47 0 0);
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
 h2 {
